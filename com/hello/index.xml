@@ -1,9 +1,11 @@
-<page_header>
- 	<type>document</type>
-	<title>Hello World Page Index</title>
-</page_header>
+<page>
+	<page_header>
+ 		<type>document</type>
+		<title>Hello World Page Index</title>
+	</page_header>
 
-<page_contents>
-	<heading style="bold" size="20">Hello World</heading>
-	<label size="20">Welcome to my epic BobuxNet site!</label>
-</page_contents>
+	<page_contents>
+		<heading style="bold" size="20">Hello World</heading>
+		<label size="20">Welcome to my epic BobuxNet site!</label>
+	</page_contents>
+</page>
