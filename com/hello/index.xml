@@ -6,6 +6,6 @@
 
 	<page_contents>
 		<heading bold="true" size="20">Hello World</heading>
-		<label size="20">Welcome to my epic BobuxNet site!</label>
+		<label>Welcome to my epic BobuxNet site!</label>
 	</page_contents>
 </page>
