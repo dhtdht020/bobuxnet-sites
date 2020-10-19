@@ -7,5 +7,7 @@
 	<page_contents>
 		<heading bold="true" size="20">Hello World</heading>
 		<label>Welcome to my epic BobuxNet site!</label>
+		<label>Best site on the entirety of BobuxNet. Beats all the competition!</label>
+		<label size="14" bold="true">Tell all your friends to check out hello.com</label>
 	</page_contents>
 </page>
