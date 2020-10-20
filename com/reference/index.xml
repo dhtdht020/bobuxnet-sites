@@ -8,18 +8,25 @@
 		<heading>Element Reference</heading>
     
 		<label>This site includes all elements currently supported by BobuxNet Browser, by order of addition.</label>
-    <horizontal_line></horizontal_line>
+		
+    		<spacer></spacer>
     
-    <label bold="true">Heading:</label>
+    		<label bold="true">Heading:</label>
 		<heading>I am an heading. You can make me bold and set my font size just like labels!</heading>
+		
+		<spacer></spacer>
     
 		<label bold="true">Label:</label>
 		<label>I am a label. You can make me bold (bold=true) and sent the font size (size="12")</label>
+		
+		<spacer></spacer>
     
-    <label bold="true">Horizontal Line:</label>
-    <horizontal_line></horizontal_line>
+    		<label bold="true">Horizontal Line:</label>
+    		<horizontal_line></horizontal_line>
+		
+		<spacer></spacer>
     
-    <label bold="true">Link:</label>
+    		<label bold="true">Link:</label>
 		<link href="hello.com">I am a link</link>
 	</page_contents>
 </page>
