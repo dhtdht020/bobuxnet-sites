@@ -5,9 +5,9 @@
 	</page_header>
 
 	<page_contents>
-		<heading>Element Reference</heading>
+		<heading alignment="center">Element Reference</heading>
     
-		<label>This site includes all elements currently supported by BobuxNet Browser, by order of addition.</label>
+		<label alignment="center">This site includes all elements currently supported by BobuxNet Browser, by order of addition.</label>
 		
     		<spacer></spacer>
     
@@ -28,6 +28,8 @@
     
     		<label bold="true">Link:</label>
 		<link href="hello.com">I am a link</link>
+		<link href="hello.com" alignment="center">I am a link aligned to the center</link>
+		<link href="hello.com" alignment="right">I am a link aligned to the right</link>
 		
 		<spacer></spacer>
 		
