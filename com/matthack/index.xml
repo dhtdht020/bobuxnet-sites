@@ -1,0 +1,35 @@
+<page>
+	<page_header>
+ 		<type>document</type>
+		<title>Matthack Inc.</title>
+	</page_header>
+
+	<page_contents>
+		<heading alignment="center">Matthack Inc.</heading>
+    
+		<label alignment="center">The best place to trade bobux</label>
+		
+    		<spacer></spacer>
+    
+		<heading>Buy low, sell high.</heading>
+		
+		<spacer></spacer>
+    
+		<label bold="true">Matthack Inc. is a company specialized in Bobux exchange.</label>
+		<label bold="true">Analyze the stock market price, sell when it's high, buy when it's low, and become rich in no time!</label>
+		
+		<spacer></spacer>
+    
+    		<horizontal_line></horizontal_line>
+		
+		<spacer></spacer>
+    
+    		<label bold="true">Check out our partners :</label>
+		<link href="hello.com">BobuxNet</link>
+		<link href="rc24.xyz">RiiConnect24</link>
+		
+		<spacer></spacer>
+
+		<label>Copyright © 2020 Matthack Inc.</label>
+	</page_contents>
+</page>
