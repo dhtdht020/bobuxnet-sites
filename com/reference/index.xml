@@ -28,5 +28,10 @@
     
     		<label bold="true">Link:</label>
 		<link href="hello.com">I am a link</link>
+		
+		<spacer></spacer>
+		
+		<label bold="true">Spacer:</label>
+		<label>A spacer adds a vertical space between two elements of set size. e.g. <spacer height="20"></spacer></label>
 	</page_contents>
 </page>
