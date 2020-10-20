@@ -12,7 +12,7 @@
     		<spacer></spacer>
     
     		<label bold="true">Heading:</label>
-		<heading>I am an heading. You can make me bold and set my font size just like labels!</heading>
+		<heading>I am a heading. You can make me bold and set my font size just like labels!</heading>
 		
 		<spacer></spacer>
     
