@@ -1,0 +1,11 @@
+<page>
+	<page_header>
+ 		<type>document</type>
+		<title>Hello World - Gamer Moment</title>
+	</page_header>
+
+	<page_contents>
+		<heading bold="true">Gamer Moment</heading>
+		<link href="hello.com">Back to Home page</link>
+	</page_contents>
+</page>
