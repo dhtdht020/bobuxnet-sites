@@ -24,9 +24,17 @@
 		
 		<spacer></spacer>
     
-    		<label bold="true">Check out our partners :</label>
-		<link href="hello.com">BobuxNet</link>
-		<link href="rc24.xyz">RiiConnect24</link>
+		<label link href="matthack.com/bobuxstatus.xml">Stock market price status</label>
+		
+		<spacer></spacer>
+    
+    		<horizontal_line></horizontal_line>
+		
+		<spacer></spacer>
+	
+    	<label bold="true">Check out our partners :</label>
+			<link href="hello.com">BobuxNet</link>
+			<link href="rc24.xyz">RiiConnect24</link>
 		
 		<spacer></spacer>
 
