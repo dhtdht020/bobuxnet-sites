@@ -1,7 +1,7 @@
 <page>
 	<page_header>
  		<type>document</type>
-		<title>Matthack Inc.</title>
+		<title>Matthack Inc. - Bobux stock market status</title>
 	</page_header>
 
 	<page_contents>
@@ -11,12 +11,7 @@
 		
     		<spacer></spacer>
     
-		<heading>Buy low, sell high.</heading>
-		
-		<spacer></spacer>
-    
-		<label bold="true">Matthack Inc. is a company specialized in Bobux exchange.</label>
-		<label bold="true">Analyze the stock market price, sell when it's high, buy when it's low, and become rich in no time!</label>
+		<heading alignment="center">Stock market price status.</heading>
 		
 		<spacer></spacer>
     
@@ -24,7 +19,24 @@
 		
 		<spacer></spacer>
     
-		<label link href="matthack.com/bobuxstatus.xml">Stock market price status</label>
+		<label bold="true">This page is still under construction. It will be finalized when we will be able to add images to our sites.</label>
+		
+		<spacer></spacer>
+    
+    		<horizontal_line></horizontal_line>
+		
+		<spacer></spacer>
+		
+		<heading alignment="center">News</heading>
+		<label bold="true">01/11/2020 - Today is the first day of No Nut November, good luck everyone!</label>
+		
+		<spacer></spacer>
+    
+    		<horizontal_line></horizontal_line>
+		
+		<spacer></spacer>
+    
+		<label link href="matthack.com/index.xml">Back to Home page</label>
 		
 		<spacer></spacer>
     
